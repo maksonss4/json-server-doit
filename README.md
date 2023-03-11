@@ -2,7 +2,7 @@
 
 ## 1. Descrição
 
-Essa é uma simples fake API, utilizando as libs json-server e json-server-auth, com o intuito de utilizar em conjunto com o projeto [Do-it](https://github.com/maksonss4/do-it-front) e acessar todas suas funcionalidades.
+Essa é uma simples fake API, utilizando as libs json-server e json-server-auth, criada com o intuito de ser utilizada em conjunto com o projeto [Do-it](https://github.com/maksonss4/do-it-front) e acessar todas suas funcionalidades.
 
 ## 2. Passos de instalação e execução
 
@@ -12,7 +12,7 @@ Clone o projeto em sua máquina
 
 ### 2.1 Instalando dependências
 
-Instale as dependências no projeto:
+Instale as dependências no projeto com o comando:
 
 ```
 yarn
@@ -26,4 +26,10 @@ Inicie o servidor localmente com o comando:
 yarn start
 ```
 
-[Clique aqui](https://github.com/maksonss4/do-it-front) para acessar o repositório da aplicação que deve ser utilizada em conjunto e siga os simples passos de instalação e execução para rodar a aplicação.
+### 2.3 Execução
+
+Agora que o servidor está em execução, [Clique aqui](https://do-it-front.vercel.app/) para utilizar a aplicação.
+
+## OBS:
+
+[Clicando aqui](https://github.com/maksonss4/do-it-front) você pode acessar o repositório da aplicação que é utilizada em conjunto :)

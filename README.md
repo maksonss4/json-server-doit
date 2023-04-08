@@ -8,7 +8,7 @@ Essa é uma simples fake API, utilizando as libs json-server e json-server-auth,
 
 ### 2.1 Clone
 
-Clone o projeto em sua máquina
+Clone o projeto em sua máquina.
 
 ### 2.1 Instalando dependências
 
